@@ -7,7 +7,7 @@
 			<div class="col-md-8"><!-- Awal Kolom Pertama -->
 			<div class="panel panel-default">
 				<div class="panel-body">
-				<h2 style="text-muted"><span class="glyphicon glyphicon-list"></span> Data Mahasiswa</h2>
+				<h2 style="text-muted"><span class="glyphicon glyphicon-list"></span> Data Mahasiswa ITB Indonesia</h2>
 				<table id="data-table" class="table table-bordered table-striped table-hover js-basic-example">
 						<thead>
 						<tr>
